@@ -1,6 +1,6 @@
-<h1 align="center">Hola 👋, Mi nombre es: Jorge Alberto Garcia Jardon</h1>
+<h1 align="center">Hola 👋, Mi nombre es: Jorge Alberto García Jardon</h1>
 <h3 align="center">¡Hola! Soy Jorge Alberto, un estudiante del Tecnológico de Monterrey, actualmente cursando el tercer semestre en Ingeniería en Tecnologías Computacionales. Mi fascinación por la programación y los videojuegos me ha llevado a explorar un dentro del campo de la informática. Mi trayecto académico y personal me ha permitido adentrarme en varios lenguajes y tecnologías que eh ido adquiriendo. En mi caja de herramientas, encontrarás lenguajes como MATLAB, C++, y Python, los cuales utilizo para resolver problemas, crear aplicaciones y explorar nuevas fronteras en el mundo de la programación. Además, tengo experiencia trabajando con bases de datos en PHP.</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
+<img align="right" alt="Coding" width="400" src="[https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC](https://giphy.com/embed/qgQUggAC3Pfv687qPC)">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jorge5278&label=Profile%20views&color=0e75b6&style=flat" alt="jorge5278" /> </p>
